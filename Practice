@@ -8,11 +8,11 @@ def calculate_bmi(weight, height):
 def bmi_category(bmi):
     """Determine the BMI category."""
     if bmi < 18.5:
-        return "Underweight"
+        return "Slim Sexy Dark Skinned BOY"
     elif 18.5 <= bmi < 24.9:
         return "Normal weight"
     elif 25 <= bmi < 29.9:
-        return "Overweight"
+        return "Fat Bitches"
     else:
         return "Obesity"
 
